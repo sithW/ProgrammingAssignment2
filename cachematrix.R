@@ -1,7 +1,7 @@
 ## The two functions retrieve the cache value for a inverse of a matrix
 
 ## This defines the getters and setters in the fuction makeCacheMatrix
-#inv denites the variable carrying the inverse of matrix
+##inv denites the variable carrying the inverse of matrix
 
 makeCacheMatrix <- function(x = matrix()) {
         inv <- NULL
